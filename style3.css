@@ -1,0 +1,22 @@
+body {
+    font-family: Arial;
+    padding: 20px;
+    text-align: center;
+}
+
+#timerDisplay {
+    font-size: 48px;
+    font-weight: bold;
+    margin: 20px 0;
+}
+
+button {
+    padding: 10px 15px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+input {
+    width: 60px;
+    padding: 5px;
+}
