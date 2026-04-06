@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <title>Async Chain</title>
+</head>
+<body>
+
+  <button id="btn">Запустити</button>
+
+  <script src="script2.js"></script>
+  <script>
+    document.getElementById("btn").addEventListener("click", () => {
+      processNumber().then(result => console.log(result));
+    });
+  </script>
+
+</body>
+</html>
