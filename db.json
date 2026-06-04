@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "title": "продажа",
+      "completed": true,
+      "id": "0UGy3W5NNwM"
+    },
+    {
+      "title": "відпустіть раніше",
+      "completed": true,
+      "id": "1OSzoHFnuXE"
+    },
+    {
+      "title": "завтра ідем пити пиво",
+      "completed": false,
+      "id": "U1MYt_v8WDc"
+    },
+    {
+      "title": "продажа айіона",
+      "completed": true,
+      "id": "ZL-XKxXNEI8"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
